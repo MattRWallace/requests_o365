@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: requests-o365
+Version: 0.1
+Summary: Office 365 wrapper for reuqests_oauthlib
+Home-page: http://github.com/mwallace/requests_o365
+Author: Matt Wallace
+Author-email: matthew.r.wallace@live.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4

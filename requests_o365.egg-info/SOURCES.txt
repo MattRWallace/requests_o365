@@ -1,0 +1,13 @@
+DESCRIPTION.rst
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+requests_o365/__init__.py
+requests_o365/o365_session.py
+requests_o365.egg-info/PKG-INFO
+requests_o365.egg-info/SOURCES.txt
+requests_o365.egg-info/dependency_links.txt
+requests_o365.egg-info/not-zip-safe
+requests_o365.egg-info/pbr.json
+requests_o365.egg-info/top_level.txt
